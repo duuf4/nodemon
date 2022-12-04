@@ -1,0 +1,1 @@
+process.stdout.write('Han solo\n')
